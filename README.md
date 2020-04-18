@@ -54,6 +54,7 @@
 ## study
 * pluralsight
 * udemy
+* youtube
 
 ## privacy
 * [privacy tools](https://www.privacytools.io/)
