@@ -1,7 +1,7 @@
 # documentation-Beta-
-
+## AGILE 
 * the [Agile Manifest](https://www.agilealliance.org/agile101/the-agile-manifesto/)
-## VSC:
+## VSC
 * [Visual studio Code documentation](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
 ## EMMET
