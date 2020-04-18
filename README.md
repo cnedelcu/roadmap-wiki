@@ -15,6 +15,8 @@
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
 ## HTML 5, CSS 3, flexbox, grid css
+* [Introduction to Basic HTML 5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
+* [Introduction to Basic CSS 3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [html5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 * [specificity calculator](https://specificity.keegan.st/)
@@ -28,8 +30,6 @@
 * [google fonts](https://fonts.google.com/)
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
-* [freecodecamp responsive web design html 5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
-* [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
 ## Bootstrap
 * [Documentation](https://getbootstrap.com/)
