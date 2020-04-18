@@ -4,9 +4,10 @@
 ## VSC
 * documentation [Visual studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
-* [LiveServer plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [Settings Sync plugin](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [ES Lint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [Settings Sync extension](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 * font with programming ligatures [Fira code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 ## EMMET
 * [EMMET Playground](https://jsfiddle.net/)
@@ -17,3 +18,6 @@
 * [CSS selector game](https://flukeout.github.io/)
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
+
+## javaScript
+*chartJS
