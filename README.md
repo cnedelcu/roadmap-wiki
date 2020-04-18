@@ -14,3 +14,4 @@
 ## html5, CSS 3, flexbox, grid css
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
+* [font awesome](https://fontawesome.com/)
