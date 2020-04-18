@@ -42,5 +42,5 @@
 * pluralsight
 
 ## privacy
-* [privacytools](https://www.privacytools.io/)
+* [privacy tools](https://www.privacytools.io/)
 
