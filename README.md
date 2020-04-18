@@ -2,7 +2,7 @@
 ## AGILE 
 * the [Agile Manifest](https://www.agilealliance.org/agile101/the-agile-manifesto/)
 ## VSC
-* [Visual studio Code documentation](https://code.visualstudio.com/docs)
+* documentation [Visual studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
 * [LiveServer plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Settings Sync plugin](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
