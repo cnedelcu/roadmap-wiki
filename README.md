@@ -15,3 +15,4 @@
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
 * [font awesome](https://fontawesome.com/)
+* [google fonts](https://fonts.google.com/)
