@@ -35,7 +35,7 @@
 
 ## CSS extension:
 
- [sass documentation](https://sass-lang.com/)
+ * [sass documentation](https://sass-lang.com/)
 
 ## javaScript
 * chartJS
