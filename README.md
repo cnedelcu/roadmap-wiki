@@ -11,5 +11,5 @@
 * [EMMET Playground](https://jsfiddle.net/)
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
-## CSS 3
+## CSS 3, flexbox, grid css
 * [CSS selector game](https://flukeout.github.io/)
