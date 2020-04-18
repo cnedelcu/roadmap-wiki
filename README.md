@@ -18,6 +18,7 @@
 * [CSS selector game](https://flukeout.github.io/)
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
+* [minify](https://www.cleancss.com/css-minify/)
 
 ## javaScript
 * chartJS
