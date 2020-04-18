@@ -17,6 +17,7 @@
 * [html5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 * [specificity calculator](https://specificity.keegan.st/)
+* [responsive breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
 * [can I use](https://caniuse.com/)
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
@@ -29,5 +30,7 @@
 * chartJS
 
 ## portfolio
+* github
 * codepen
 * stalkoverflow
+
