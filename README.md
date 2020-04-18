@@ -37,6 +37,7 @@
 * codepen
 * linkedin
 * stalkoverflow
+* https://angel.co/
 
 ## study
 * pluralsight
