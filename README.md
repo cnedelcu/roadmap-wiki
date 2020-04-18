@@ -23,6 +23,7 @@
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
+* [flexbox cheatsheet](www.darekkay.com/dev/flexbox-cheatsheet.html)
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
 * [minify](https://www.cleancss.com/css-minify/)
