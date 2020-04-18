@@ -38,3 +38,6 @@
 * linkedin
 * stalkoverflow
 
+## study
+* pluralsight
+
