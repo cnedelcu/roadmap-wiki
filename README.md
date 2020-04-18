@@ -20,4 +20,4 @@
 * [google fonts](https://fonts.google.com/)
 
 ## javaScript
-*chartJS
+* chartJS
