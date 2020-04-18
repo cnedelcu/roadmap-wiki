@@ -13,7 +13,7 @@
 * [EMMET Playground](https://jsfiddle.net/)
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
-## html5, CSS 3, flexbox, grid css
+## HTML 5, CSS 3, flexbox, grid css
 * [html5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 * [specificity calculator](https://specificity.keegan.st/)
