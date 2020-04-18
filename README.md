@@ -5,7 +5,7 @@
 * documentation [Visual studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
 * [LiveServer plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-* [prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Settings Sync plugin](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 * font with programming ligatures [Fira code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 ## EMMET
