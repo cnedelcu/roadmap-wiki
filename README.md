@@ -41,3 +41,6 @@
 ## study
 * pluralsight
 
+## privacy
+* https://www.privacytools.io/
+
