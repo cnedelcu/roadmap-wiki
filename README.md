@@ -14,8 +14,10 @@
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
 ## html5, CSS 3, flexbox, grid css
+* [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
+* [CSS flexbox game](https://flexboxfroggy.com/)
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
 * [minify](https://www.cleancss.com/css-minify/)
