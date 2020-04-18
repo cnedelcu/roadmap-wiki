@@ -27,6 +27,7 @@
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
 * [minify](https://www.cleancss.com/css-minify/)
+* [colorsinspo]( https://colorsinspo.com)
 * [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
 ## Bootstrap
