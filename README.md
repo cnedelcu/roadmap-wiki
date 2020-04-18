@@ -15,7 +15,7 @@
 
 ## html5, CSS 3, flexbox, grid css
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
-* [specificity](https://specificity.keegan.st/)
+* [specificity calculator](https://specificity.keegan.st/)
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
