@@ -29,7 +29,7 @@
 
 ## Bootstrap
 * [Documentation](https://getbootstrap.com/)
-* w3school[documentation](https://www.w3schools.com/bootstrap4/)
+* w3school [documentation](https://www.w3schools.com/bootstrap4/)
 
 ## javaScript
 * chartJS
