@@ -53,6 +53,7 @@
 
 ## study
 * pluralsight
+* udemy
 
 ## privacy
 * [privacy tools](https://www.privacytools.io/)
