@@ -28,6 +28,7 @@
 * [google fonts](https://fonts.google.com/)
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
+* [freecodecamp responsive web design html 5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
 ## Bootstrap
