@@ -55,6 +55,7 @@
  * [sass documentation](https://sass-lang.com/)
 
 ## javaScript
+* [babel](https://babeljs.io/)
 * chartJS
 
 ## portfolio
