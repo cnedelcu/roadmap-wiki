@@ -26,7 +26,7 @@
 * [CSS tricks](https://css-tricks.com/almanac/)
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
-* [CSS grid garden game]
+* [CSS grid garden game](http://cssgridgarden.com/)
 * [FLEXBOX cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 * [Grid cheat sheet](http://grid.malven.co/)
 * [font awesome](https://fontawesome.com/)
