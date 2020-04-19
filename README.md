@@ -47,6 +47,7 @@
 
 ## portfolio
 * github
+* blog
 * codepen
 * linkedin
 * stalkoverflow
