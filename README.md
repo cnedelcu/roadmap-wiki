@@ -37,6 +37,7 @@
 * [particle background](https://www.cssscript.com/tag/particle-system/)
 * https://www.webdesignerdepot.com/2016/10/4-modern-background-tricks-to-try-out/
 * https://speckyboy.com/particle-animation-code-snippets/
+* https://www.jotform.com/blog/particles-animation-codepen-97659/
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 
 
