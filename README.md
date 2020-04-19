@@ -35,6 +35,8 @@
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
 * [animate.css](https://daneden.github.io/animate.css/)
 * [particle background](https://www.cssscript.com/tag/particle-system/)
+* https://www.webdesignerdepot.com/2016/10/4-modern-background-tricks-to-try-out/
+* https://speckyboy.com/particle-animation-code-snippets/
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 
 
