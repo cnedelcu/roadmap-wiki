@@ -27,7 +27,7 @@
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
 * [CSS grid garden game](http://cssgridgarden.com/)
-* [FLEXBOX cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+* [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 * [Grid cheat sheet](http://grid.malven.co/)
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
