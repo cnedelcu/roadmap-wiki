@@ -29,7 +29,8 @@
 * [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
-* https://9elements.com/bem-cheat-sheet/
+* [right class name](https://9elements.com/bem-cheat-sheet/)
+* [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
