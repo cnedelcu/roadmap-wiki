@@ -33,7 +33,9 @@
 * [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
+* [animate.css](https://daneden.github.io/animate.css/)
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+
 
 ## Bootstrap
 * [Documentation](https://getbootstrap.com/)
