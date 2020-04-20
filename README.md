@@ -117,7 +117,7 @@
 * [Dark Net Diaries](https://darknetdiaries.com/)
 
 ## books
-[Algorithms to Live By](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+* [Algorithms to Live By](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 
 ## other resources
 * [zero to mastery](https://zero-to-mastery.github.io/resources/)
