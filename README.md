@@ -85,7 +85,7 @@
 * UiPath
 
 ## other 
-* [infographic-makers](ttps://buffer.com/library/infographic-makers)
+* [infographic-makers](https://buffer.com/library/infographic-makers)
 
 ## podcast
 * [Dark Net Diaries](https://darknetdiaries.com/)
