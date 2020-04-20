@@ -38,6 +38,7 @@
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
 * [animate.css](https://daneden.github.io/animate.css/)
+* [animista](https://animista.net/)
 * [particle background](https://www.cssscript.com/tag/particle-system/)
 * https://www.webdesignerdepot.com/2016/10/4-modern-background-tricks-to-try-out/
 * https://speckyboy.com/particle-animation-code-snippets/
