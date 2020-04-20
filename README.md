@@ -90,7 +90,7 @@
 ## explication
 * [Microservices vs. Monolith Architecture](https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m)
 * [stateful vs stateless](https://medium.com/@rachna3singhal/stateless-over-stateful-applications-73cbe025f07)
-* [OAuth](https://www.youtube.com/watch?v=t4-416mg6iU)
+* [OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
 
 ## security
 * [cryptography for absolute beginners](https://medium.com/@hashelse/cryptography-for-absolute-beginners-3e274f9d6d66)
