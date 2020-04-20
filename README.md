@@ -61,6 +61,9 @@
 ##react
 * https://nextjs.org/
 
+## git
+* [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+
 ## portfolio
 * github
 * blog
