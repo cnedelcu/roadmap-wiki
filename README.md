@@ -58,6 +58,7 @@
 ## javaScript
 * [babel](https://babeljs.io/)
 * [es6 cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
+* [optional argument](https://www.geeksforgeeks.org/how-to-declare-the-optional-function-parameters-in-javascript/)
 * block scope
 * arrow
 * object literals
