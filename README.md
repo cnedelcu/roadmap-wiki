@@ -58,8 +58,13 @@
 ## javaScript
 * [babel](https://babeljs.io/)
 * [es6 cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
+* block scope
+* arrow
+* object literals
 * [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) 
 * [destructruing objects](https://wesbos.com/destructuring-objects/)
+* template strings
+* promises
 * chartJS
 
 ## react
