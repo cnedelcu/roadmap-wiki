@@ -91,7 +91,10 @@
 * [10 Website Go-Live Checklist Items](https://dev.to/adriantwarog/10-website-go-live-checklist-items-mp9)
 * [Microservices vs. Monolith Architecture](https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m)
 * [stateful vs stateless](https://medium.com/@rachna3singhal/stateless-over-stateful-applications-73cbe025f07)
+* [Rest API](https://www.youtube.com/watch?v=7YcW25PHnAA)
 * [OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html) | [OAuth simplified](https://aaronparecki.com/oauth-2-simplified/)
+* [SSL](https://www.youtube.com/watch?v=earzZpX-PiY)
+
 
 ## security
 * [cryptography for absolute beginners](https://medium.com/@hashelse/cryptography-for-absolute-beginners-3e274f9d6d66)
