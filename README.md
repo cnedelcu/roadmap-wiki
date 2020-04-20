@@ -76,6 +76,7 @@
 * pluralsight
 * udemy
 * youtube
+* [hyperskill: Java, kotlin, Python](https://hyperskill.org/onboarding/?track=java)
 
 ## privacy
 * [privacy tools](https://www.privacytools.io/)
