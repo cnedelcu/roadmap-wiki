@@ -14,7 +14,7 @@
 * [EMMET Playground](https://jsfiddle.net/)
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
-## HTML 5, CSS 3, flexbox, grid CSS
+## HTML 5, CSS 3, FLEXBOX, GRID CSS
 * [Introduction to Basic HTML 5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [Introduction to Basic CSS 3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
