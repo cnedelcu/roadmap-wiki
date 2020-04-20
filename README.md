@@ -80,7 +80,14 @@
 
 ## automation
 * UiPath
+
 ## other 
 * [infographic-makers](ttps://buffer.com/library/infographic-makers)
+
+## podcast
+* [Dark Net Diaries](https://darknetdiaries.com/)
+
+## other resources
+* [zero to mastery](https://zero-to-mastery.github.io/resources/)
 
 
