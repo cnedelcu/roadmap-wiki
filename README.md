@@ -97,6 +97,7 @@
 
 ##playlist 
 * [WORK Jazz - Concentration Relaxing JAZZ for Work and Study](https://www.youtube.com/watch?v=MizPu-dTPQU)
+* [the Social Network soundtrack ](https://www.youtube.com/watch?v=yydZbVoCbn0)
 
 ## podcast
 * [Dark Net Diaries](https://darknetdiaries.com/)
