@@ -70,7 +70,6 @@
 * rest, spread
 * template strings
 * promises
-* [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 * chartJS
 
 ## react
@@ -78,6 +77,7 @@
 * hooks
 * one way data flow
 * https://nextjs.org/
+* [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 
 
 ## git
