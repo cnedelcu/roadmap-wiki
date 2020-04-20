@@ -58,7 +58,7 @@
 * [babel](https://babeljs.io/)
 * chartJS
 
-##react
+## react
 * https://nextjs.org/
 
 ## git
