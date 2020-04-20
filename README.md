@@ -77,6 +77,7 @@
 
 ## automation
 * UiPath
-
+## other 
+* [infographic-makers](ttps://buffer.com/library/infographic-makers)
 
 
