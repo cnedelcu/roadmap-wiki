@@ -88,7 +88,9 @@
 * [angel](https://angel.co/)
 
 ## explication
-* stateful or stateless
+* [Microservices vs. Monolith Architecture](https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m)
+* [stateful or stateless](https://medium.com/@rachna3singhal/stateless-over-stateful-applications-73cbe025f07)
+* [OAuth](https://www.youtube.com/watch?v=t4-416mg6iU)
 
 ## security
 * [cryptography for absolute beginners](https://medium.com/@hashelse/cryptography-for-absolute-beginners-3e274f9d6d66)
