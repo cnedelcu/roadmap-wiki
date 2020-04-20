@@ -73,7 +73,7 @@
 
 ## privacy
 * [privacy tools](https://www.privacytools.io/)
-* [1.1.1.1](https://blog.cloudflare.com/announcing-1111/)
+* [Cloudflare 1.1.1.1](https://blog.cloudflare.com/announcing-1111/)
 
 
 
