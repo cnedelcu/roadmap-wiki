@@ -18,6 +18,7 @@
 * [Introduction to Basic HTML 5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [Introduction to Basic CSS 3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
+* [meta tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
 * [HTML 5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 * [specificity calculator](https://specificity.keegan.st/)
