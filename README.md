@@ -60,7 +60,9 @@
 * chartJS
 
 ## react
+* https://www.pluralsight.com/courses/react-js-getting-started
 * https://nextjs.org/
+
 
 ## git
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
