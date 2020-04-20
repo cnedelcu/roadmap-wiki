@@ -95,7 +95,7 @@
 ## other 
 * [infographic-makers](https://buffer.com/library/infographic-makers)
 
-##playlist 
+## playlist 
 * [WORK Jazz - Concentration Relaxing JAZZ for Work and Study](https://www.youtube.com/watch?v=MizPu-dTPQU)
 * [the Social Network soundtrack ](https://www.youtube.com/watch?v=yydZbVoCbn0)
 
