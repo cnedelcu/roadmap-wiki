@@ -70,6 +70,8 @@
 
 ## react
 * https://www.pluralsight.com/courses/react-js-getting-started
+* hooks
+* one way data flow
 * https://nextjs.org/
 
 
