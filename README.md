@@ -63,6 +63,7 @@
 * object literals
 * [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) 
 * [destructruing objects](https://wesbos.com/destructuring-objects/)
+* rest, spread
 * template strings
 * promises
 * chartJS
