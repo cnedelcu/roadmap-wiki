@@ -26,7 +26,7 @@
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 * [can I use](https://caniuse.com/)
 * [CSS tricks](https://css-tricks.com/almanac/)
-* [typography on material design](https://material.io/design/typography/understanding-typography.html#type-properties)
+* [typography on material design](https://material.io/design/typography/understanding-typography.html#type-properties) | [typography for developers](https://css-tricks.com/typography-for-developers/)
 * [typography](https://www.supremo.co.uk/typeterms/)
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
