@@ -72,6 +72,9 @@
 * stalkoverflow
 * [angel](https://angel.co/)
 
+## security
+* [cryptography for absolute beginners](https://medium.com/@hashelse/cryptography-for-absolute-beginners-3e274f9d6d66)
+
 ## study
 * pluralsight
 * udemy
