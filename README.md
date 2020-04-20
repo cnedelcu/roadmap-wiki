@@ -95,6 +95,9 @@
 ## other 
 * [infographic-makers](https://buffer.com/library/infographic-makers)
 
+##playlist 
+* [WORK Jazz - Concentration Relaxing JAZZ for Work and Study](https://www.youtube.com/watch?v=MizPu-dTPQU)
+
 ## podcast
 * [Dark Net Diaries](https://darknetdiaries.com/)
 
