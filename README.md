@@ -74,7 +74,7 @@
 * chartJS
 
 ## react
-* https://www.pluralsight.com/courses/react-js-getting-started
+* [creat react app](https://github.com/facebook/create-react-app)
 * hooks
 * one way data flow
 * https://nextjs.org/
