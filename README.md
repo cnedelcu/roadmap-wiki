@@ -82,6 +82,7 @@
 * https://nextjs.org/
 * https://www.npmjs.com/package/axios
 * [test with Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+https://jestjs.io/docs/en/tutorial-react
 * [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 
 
