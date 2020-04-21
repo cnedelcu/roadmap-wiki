@@ -75,6 +75,7 @@
 
 ## react
 * [creat react app](https://github.com/facebook/create-react-app)
+* [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 * hooks
 * one way data flow
 * https://nextjs.org/
