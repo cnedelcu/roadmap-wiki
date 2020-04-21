@@ -78,6 +78,7 @@
 * [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 * hooks
 * one way data flow
+* [material UI](https://material-ui.com/)
 * https://nextjs.org/
 * [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 
