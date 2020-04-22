@@ -157,4 +157,7 @@
 * [Memory device- mind palace](https://www.youtube.com/watch?v=PIbz_gKw0XY)
 * [impostor syndrome](https://www.atlassian.com/blog/inside-atlassian/impostor-syndrome-as-an-asset)
 
+## competitive programing 
+* https://codersrank.io/
+
 
