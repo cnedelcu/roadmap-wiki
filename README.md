@@ -24,15 +24,17 @@
 * [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
 * [meta tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
 * [HTML 5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
-
 ### BOX MODEL
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 ### specificity
 * [specificity calculator](https://specificity.keegan.st/)
+### responsive breakpoints and media queries
 * [responsive breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+### recomended sites
 * [can I use](https://caniuse.com/)
 * [CSS tricks](https://css-tricks.com/almanac/)
+#### typography
 * [typography on material design](https://material.io/design/typography/understanding-typography.html#type-properties) | [typography for developers](https://css-tricks.com/typography-for-developers/) | [typeterms](https://www.supremo.co.uk/typeterms/) | [guide to typography](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)
 * [CSS prefix](http://shouldiprefix.com/) | [autoprefixer](https://autoprefixer.github.io/)
 * [CSS selector game](https://flukeout.github.io/)
