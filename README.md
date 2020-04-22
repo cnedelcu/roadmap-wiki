@@ -20,7 +20,7 @@
 ### HTML5 documentation
 * [Introduction to Basic HTML5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [HTML5 tutorialrepublic](https://www.tutorialrepublic.com/html-tutorial/)
-### CSS4 documentation
+### CSS3 documentation
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
 * [CSS3 w3schools](https://www.w3schools.com/whatis/whatis_css.asp)
