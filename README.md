@@ -124,6 +124,9 @@
 * [test with Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) | https://jestjs.io/docs/en/tutorial-react
 * [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 
+### quiz
+* [Quiz React Basic](https://www.w3docs.com/quiz-start/react)
+
 ### job interview questions
 * [5 Essential React.js Interview Questions and Answers](https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1)
 * [Frequently asked: React JS Interview Questions and Answers](https://medium.com/@vigowebs/frequently-asked-react-js-interview-questions-and-answers-36f3dd99f486)
