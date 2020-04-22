@@ -70,10 +70,12 @@
 * [animate.css](https://daneden.github.io/animate.css/)
 * [animista](https://animista.net/)
 ### animate background
-* [particle background](https://www.cssscript.com/tag/particle-system/)
+* [5 Best Particles Animation JavaScript Libraries For 2020](https://www.cssscript.com/best-particles-animation/)
 * https://www.webdesignerdepot.com/2016/10/4-modern-background-tricks-to-try-out/
-* https://speckyboy.com/particle-animation-code-snippets/
-* https://www.jotform.com/blog/particles-animation-codepen-97659/
+* [10 Beautiful Examples of Particle Animation in Web Design](https://speckyboy.com/particle-animation-code-snippets/)
+* [7 Free Stock Video Loop Backgrounds (and How to Use & Implement Them)](https://www.jotform.com/blog/particles-animation-codepen-97659/)
+* [Background Stock Video Footage](https://www.videvo.net/stock-video-footage/background/)
+
 ### more
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 * [page optimizaton test](https://varvy.com/)
