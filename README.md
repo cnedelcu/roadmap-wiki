@@ -70,13 +70,13 @@
 * [page optimizaton test](https://varvy.com/)
 
 
-## Bootstrap
+## BOOTSTRAP
 * [Documentation](https://getbootstrap.com/)
 * w3school [documentation](https://www.w3schools.com/bootstrap4/)
 * [startbootstrap](https://startbootstrap.com/)
 * [creative-tim](https://www.creative-tim.com/)
 
-## CSS extension:
+## CSS EXTENSION
 
  * [sass documentation](https://sass-lang.com/)
 
