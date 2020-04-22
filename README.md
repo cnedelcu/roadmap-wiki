@@ -126,6 +126,7 @@
 
 ### quiz
 * [Quiz React Basic](https://www.w3docs.com/quiz-start/react)
+* [Reac medium level](https://skillvalue.com/quiz/en/javascript/reactjs-medium-level/)
 
 ### job interview questions
 * [5 Essential React.js Interview Questions and Answers](https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1)
