@@ -121,6 +121,9 @@
 ### library
 * chartJS
 
+###
+* [front end debugging hack](https://dev.to/lucasjanon/my-favorite-front-end-debugging-hack-4p5d?fbclid=IwAR2Lse9TgOWdVxCZfUIGCMB1lbgwDjqfxmuiWeWR6dyIN4JrlvYoi15mfxM)
+
 ## REACT
 * [reactjs.org - eveything you need to know about react](https://reactjs.org/docs/getting-started.html)
   * JSX, Components and Props, State and Lifecycle, Handling Events,  Conditional Rendering, Lists and Keys,  Forms,  Lifting State Up, Composition vs Inheritance, Thinking In React
