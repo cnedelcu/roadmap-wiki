@@ -24,7 +24,7 @@
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
 * [CSS3 w3schools](https://www.w3schools.com/whatis/whatis_css.asp)
-### Grid CSS
+### Grid CSS documentation
 * [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [grid-template-columns / grid-template-rows](https://css-tricks.com/almanac/properties/g/grid-rows-columns/)
