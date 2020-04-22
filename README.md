@@ -23,7 +23,7 @@
 ### CSS3 documentation
 * [What is CSS?](https://www.w3schools.com/whatis/whatis_css.asp)
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
-* [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
+* [CSS3 tutorial](https://www.tutorialrepublic.com/css-tutorial/)
 
 ### Grid CSS documentation
 * [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
