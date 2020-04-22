@@ -20,6 +20,7 @@
 ### intro
 * [Introduction to Basic HTML5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+* [HTML5 tutorialrepublic](https://www.tutorialrepublic.com/html-tutorial/)
 * [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
 * [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
 ### meta tags
@@ -82,6 +83,9 @@
  * [sass documentation](https://sass-lang.com/)
 
 ## javaScript
+### documentation
+* [tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
+### compiler
 * [babel](https://babeljs.io/)
 * [es6 cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
 * [optional argument](https://www.geeksforgeeks.org/how-to-declare-the-optional-function-parameters-in-javascript/)
