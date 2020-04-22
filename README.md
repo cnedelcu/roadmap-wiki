@@ -21,9 +21,10 @@
 * [Introduction to Basic HTML5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [HTML5 tutorialrepublic](https://www.tutorialrepublic.com/html-tutorial/)
 ### CSS3 documentation
+* [What is CSS?](https://www.w3schools.com/whatis/whatis_css.asp)
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
-* [CSS3 w3schools](https://www.w3schools.com/whatis/whatis_css.asp)
+
 ### Grid CSS documentation
 * [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
