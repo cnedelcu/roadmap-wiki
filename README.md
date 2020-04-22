@@ -144,6 +144,7 @@
 * [Edurecta questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 * [20 ReactJS Questions and Answers](https://medium.com/fantageek/20-reactjs-questions-and-answers-part-1-45fe5bc0a910)
 * [Kill Your Next Tech Interview](https://www.fullstack.cafe/React)
+* [reactjs interview questions](https://mindmajix.com/reactjs-interview-questions)
 
 ## git
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
