@@ -99,6 +99,7 @@
 ### cheatsheet
 * [es6 cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
 ### functional programming
+* [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 * [optional argument](https://www.geeksforgeeks.org/how-to-declare-the-optional-function-parameters-in-javascript/)
 * block scope
 * arrow
