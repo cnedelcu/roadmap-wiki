@@ -99,6 +99,7 @@
 
 ## javaScript
 ### documentation
+* [javascript.info](https://javascript.info/)
 * [tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
 ### compiler
 * [babel](https://babeljs.io/)
