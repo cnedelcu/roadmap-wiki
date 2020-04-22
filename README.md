@@ -39,24 +39,32 @@
 * [typography for developers](https://css-tricks.com/typography-for-developers/) 
 * [typeterms](https://www.supremo.co.uk/typeterms/) 
 * [guide to typography](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)
-* [CSS prefix](http://shouldiprefix.com/) | [autoprefixer](https://autoprefixer.github.io/)
+### prefix and autofixer
+* [CSS prefix](http://shouldiprefix.com/) 
+* [autoprefixer](https://autoprefixer.github.io/)
+### games
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
 * [CSS grid garden game](http://cssgridgarden.com/)
+### cheaseet
 * [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 * [Grid cheat sheet](http://grid.malven.co/)
+### useful resurces
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
 * [right class name](https://9elements.com/bem-cheat-sheet/)
 * [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
+### animate 
 * [animate.css](https://daneden.github.io/animate.css/)
 * [animista](https://animista.net/)
+### animate background
 * [particle background](https://www.cssscript.com/tag/particle-system/)
 * https://www.webdesignerdepot.com/2016/10/4-modern-background-tricks-to-try-out/
 * https://speckyboy.com/particle-animation-code-snippets/
 * https://www.jotform.com/blog/particles-animation-codepen-97659/
+### more advanced
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 * [page optimizaton test](https://varvy.com/)
 
