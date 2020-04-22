@@ -35,7 +35,10 @@
 * [can I use](https://caniuse.com/)
 * [CSS tricks](https://css-tricks.com/almanac/)
 #### typography
-* [typography on material design](https://material.io/design/typography/understanding-typography.html#type-properties) | [typography for developers](https://css-tricks.com/typography-for-developers/) | [typeterms](https://www.supremo.co.uk/typeterms/) | [guide to typography](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)
+* [typography on material design](https://material.io/design/typography/understanding-typography.html#type-properties) 
+* [typography for developers](https://css-tricks.com/typography-for-developers/) 
+* [typeterms](https://www.supremo.co.uk/typeterms/) 
+* [guide to typography](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)
 * [CSS prefix](http://shouldiprefix.com/) | [autoprefixer](https://autoprefixer.github.io/)
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
