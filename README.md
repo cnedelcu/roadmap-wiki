@@ -89,7 +89,9 @@
 * [tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
 ### compiler
 * [babel](https://babeljs.io/)
+### cheatsheet
 * [es6 cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
+### functional programming
 * [optional argument](https://www.geeksforgeeks.org/how-to-declare-the-optional-function-parameters-in-javascript/)
 * block scope
 * arrow
