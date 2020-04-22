@@ -48,7 +48,7 @@
 ### games
 * [CSS selector game](https://flukeout.github.io/)
 * [CSS flexbox game](https://flexboxfroggy.com/)
-* [CSS grid garden game](http://cssgridgarden.com/)
+* [CSS grid game](http://cssgridgarden.com/)
 ### cheaseet
 * [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 * [Grid cheat sheet](http://grid.malven.co/)
