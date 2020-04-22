@@ -4,7 +4,7 @@
 * the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
 ## VISUAL STUDIO CODE
 ### documentation
-* Visual studio Code](https://code.visualstudio.com/docs)
+* [Visual studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
 ### extensions
 * [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
