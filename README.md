@@ -109,6 +109,7 @@
 * [5 Essential React.js Interview Questions and Answers](https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1)
 * [Frequently asked: React JS Interview Questions and Answers](https://medium.com/@vigowebs/frequently-asked-react-js-interview-questions-and-answers-36f3dd99f486)
 * [Toptal questions](https://www.toptal.com/react/interview-questions)
+* [Edurecta questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 
 ## git
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
