@@ -69,7 +69,7 @@
 ### animate 
 * [animate.css](https://daneden.github.io/animate.css/)
 * [animista](https://animista.net/)
-### animate background
+### animated background
 * [5 Best Particles Animation JavaScript Libraries For 2020](https://www.cssscript.com/best-particles-animation/)
 * [4 modern backgroundtricks to try out](https://www.webdesignerdepot.com/2016/10/4-modern-background-tricks-to-try-out/)
 * [10 Beautiful Examples of Particle Animation in Web Design](https://speckyboy.com/particle-animation-code-snippets/)
