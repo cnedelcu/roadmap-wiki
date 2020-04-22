@@ -23,6 +23,9 @@
 * [HTML5 tutorialrepublic](https://www.tutorialrepublic.com/html-tutorial/)
 * [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
 * [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [grid-template-columns / grid-template-rows](https://css-tricks.com/almanac/properties/g/grid-rows-columns/)
+
 ### meta tags
 * [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
 * [meta tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
