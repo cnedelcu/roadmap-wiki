@@ -78,6 +78,9 @@
 * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 * [page optimizaton test](https://varvy.com/)
 * [UI kits](https://www.creative-tim.com/)
+  * [template](https://www.creative-tim.com/product/coming-sssoon-page)
+  * [example video backgound 1](https://demos.creative-tim.com/coming-sssoon-page/demo-video-background.html)
+  * [example video backgound 2](https://wedistill.io/videos/northernlights2-hd)
 
 
 ## BOOTSTRAP
