@@ -125,12 +125,13 @@
 * [test with Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) | https://jestjs.io/docs/en/tutorial-react
 * [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 * [react particles animation background component ](https://reactjsexample.com/react-particles-animation-background-component/)
-* [Kill Your Next Tech Interview](https://www.fullstack.cafe/React)
+
 
 ### projects 
 * [Video course: Learn React — how to build a simple Rock Paper Scissors game](https://hackernoon.com/learn-react-js-how-to-build-a-simple-rock-paper-scissors-game-b57ca663ec02)
 * [Learning React.js by building a Minesweeper game](https://codeburst.io/learning-react-js-by-building-a-minesweeper-game-ced9d41560ed)
 * [How to Build Tic Tac Toe with React Hooks](https://medium.com/@shifrb/how-to-build-tic-tac-toe-with-react-hooks-ca37f6040022)
+* [react-quiz](https://mitchgavan.com/react-quiz/)
 
 ### quiz
 * [Quiz React Basic](https://www.w3docs.com/quiz-start/react)
@@ -142,6 +143,7 @@
 * [Toptal questions](https://www.toptal.com/react/interview-questions)
 * [Edurecta questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 * [20 ReactJS Questions and Answers](https://medium.com/fantageek/20-reactjs-questions-and-answers-part-1-45fe5bc0a910)
+* [Kill Your Next Tech Interview](https://www.fullstack.cafe/React)
 
 ## git
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
