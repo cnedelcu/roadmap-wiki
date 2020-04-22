@@ -2,7 +2,7 @@
 
 ## AGILE 
 * the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
-## VSC
+## VISUAL STUDIO CODE
 ### documentation
 * documentation [Visual studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
