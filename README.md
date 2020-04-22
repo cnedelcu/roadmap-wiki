@@ -76,15 +76,14 @@
 ## react
 * [reactjs.org - eveything you need to know about react](https://reactjs.org/docs/getting-started.html)
   * JSX, Components and Props, State and Lifecycle, Handling Events,  Conditional Rendering, Lists and Keys,  Forms,  Lifting State Up, Composition vs Inheritance, Thinking In React
-* [creat react app](https://github.com/facebook/create-react-app)
 * [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
-* hooks
+* [creat react app](https://github.com/facebook/create-react-app)
 * one way data flow
+* hooks
 * [material UI](https://material-ui.com/)
 * https://nextjs.org/
 * https://www.npmjs.com/package/axios
-* [test with Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
-https://jestjs.io/docs/en/tutorial-react
+* [test with Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) | https://jestjs.io/docs/en/tutorial-react
 * [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 
 
