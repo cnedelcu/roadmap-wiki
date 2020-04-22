@@ -127,6 +127,9 @@
 * [react particles animation background component ](https://reactjsexample.com/react-particles-animation-background-component/)
 * [Kill Your Next Tech Interview](https://www.fullstack.cafe/React)
 
+### projects 
+* [Video course: Learn React — how to build a simple Rock Paper Scissors game](https://hackernoon.com/learn-react-js-how-to-build-a-simple-rock-paper-scissors-game-b57ca663ec02)
+
 ### quiz
 * [Quiz React Basic](https://www.w3docs.com/quiz-start/react)
 * [Reac medium level](https://skillvalue.com/quiz/en/javascript/reactjs-medium-level/)
