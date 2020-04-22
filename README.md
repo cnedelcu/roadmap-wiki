@@ -195,6 +195,7 @@
 
 ## other 
 * [infographic-makers](https://buffer.com/library/infographic-makers)
+* [simplescraper](https://simplescraper.io/)
 
 ## playlist 
 * [WORK Jazz - Concentration Relaxing JAZZ for Work and Study](https://www.youtube.com/watch?v=MizPu-dTPQU)
