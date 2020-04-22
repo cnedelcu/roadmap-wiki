@@ -16,12 +16,12 @@
 * [EMMET Playground](https://jsfiddle.net/)
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
-## HTML 5, CSS 3, FLEXBOX, GRID CSS
+## HTML5, CSS3, FLEXBOX, GRID CSS
 ### intro
-* [Introduction to Basic HTML 5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
-* [Introduction to Basic CSS 3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
-* [CSS documentation tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
-* [Grid CSSS scrimba](https://scrimba.com/g/gR8PTE)
+* [Introduction to Basic HTML5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
+* [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+* [CSS3 tutorialrepublic](https://www.tutorialrepublic.com/css-tutorial/)
+* [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
 ### meta tags
 * [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
 * [meta tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
