@@ -74,7 +74,8 @@
 * chartJS
 
 ## react
-* [eveything you need to know about react](https://reactjs.org/docs/getting-started.html)
+* [reactjs.org - eveything you need to know about react](https://reactjs.org/docs/getting-started.html)
+  * JSX, JSX, Components and Props, State and Lifecycle, Handling Events,  Conditional Rendering, Lists and Keys,  Forms,  Lifting State Up, Composition vs Inheritance, Thinking In React
 * [creat react app](https://github.com/facebook/create-react-app)
 * [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 * hooks
