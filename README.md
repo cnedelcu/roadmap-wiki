@@ -243,6 +243,7 @@
 * [ted talks - are you a giver or taker](https://www.ted.com/talks/adam_grant_are_you_a_giver_or_a_taker)
 * [Memory device- mind palace](https://www.youtube.com/watch?v=PIbz_gKw0XY)
 * [impostor syndrome](https://www.atlassian.com/blog/inside-atlassian/impostor-syndrome-as-an-asset)
+* [avoiding burnout as an ambitious developer](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 
 ## competitive programing 
 * https://codersrank.io/
