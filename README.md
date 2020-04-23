@@ -156,7 +156,8 @@
 * [material UI](https://material-ui.com/)
 * https://nextjs.org/
 * https://www.npmjs.com/package/axios
-* [test with Jest](https://jestjs.io/docs/en/tutorial-react)  
+* [test with Jest](https://jestjs.io/docs/en/tutorial-react) 
+* react router
 * [How to Make a Static Blog With Next.js](https://dev.to/jfelx/how-to-make-a-static-blog-with-next-js-2bd6)
 * [react particles animation background component ](https://reactjsexample.com/react-particles-animation-background-component/)
 
