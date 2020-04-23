@@ -170,7 +170,7 @@
 * [Kill Your Next Tech Interview](https://www.fullstack.cafe/React)
 * [reactjs interview questions](https://mindmajix.com/reactjs-interview-questions)
 
-## git
+## GIT
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
 ## recomanded for portfolio
