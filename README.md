@@ -124,6 +124,9 @@
 ### library
 * chartJS
 
+### debug
+* [moving beyond console](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
+
 ### other
 * [front end debugging hack](https://dev.to/lucasjanon/my-favorite-front-end-debugging-hack-4p5d?fbclid=IwAR2Lse9TgOWdVxCZfUIGCMB1lbgwDjqfxmuiWeWR6dyIN4JrlvYoi15mfxM)
 * [javascript assignments](http://www.webtrainingcentre.com/javascript-assignments/)
