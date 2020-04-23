@@ -103,6 +103,7 @@
 ### documentation
 * [javascript.info](https://javascript.info/)
 * [tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
+* [javaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 ### compiler
 * [babel](https://babeljs.io/)
 ### cheatsheet
@@ -121,7 +122,7 @@
 ### library
 * chartJS
 
-###
+### other
 * [front end debugging hack](https://dev.to/lucasjanon/my-favorite-front-end-debugging-hack-4p5d?fbclid=IwAR2Lse9TgOWdVxCZfUIGCMB1lbgwDjqfxmuiWeWR6dyIN4JrlvYoi15mfxM)
 
 ## REACT
