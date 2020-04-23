@@ -90,6 +90,7 @@
   * [example video backgound 2](https://wedistill.io/videos/northernlights2-hd)
 * [html5up](https://html5up.net/)
 * [html-templates/profile/](https://mobirise.com/html-templates/profile/)
+* [easy and free ways to publish a website](https://dev.to/0xbanana/easy-and-free-ways-to-publish-a-website-in-2020-44lo)
 
 
 ## BOOTSTRAP
