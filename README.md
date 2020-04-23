@@ -1,4 +1,4 @@
-# Resources-Beta-
+# Resources-Beta
 
 ## AGILE 
 * the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
