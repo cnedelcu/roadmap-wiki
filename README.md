@@ -60,7 +60,7 @@
 * [Flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 * [flexbox the ultimate css flex cheatsheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
 * [Grid cheat sheet](http://grid.malven.co/)
-### useful resurces
+### useful 
 * [font awesome](https://fontawesome.com/)
 * [google fonts](https://fonts.google.com/)
 * [right class name](https://9elements.com/bem-cheat-sheet/)
