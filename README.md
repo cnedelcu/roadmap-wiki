@@ -49,6 +49,7 @@
 * [typography for developers](https://css-tricks.com/typography-for-developers/) 
 * [typeterms](https://www.supremo.co.uk/typeterms/) 
 * [guide to typography](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)
+* [typography terms](https://www.canva.com/learn/typography-terms/)
 ### prefix and autofixer
 * [CSS prefix](http://shouldiprefix.com/) 
 * [autoprefixer](https://autoprefixer.github.io/)
