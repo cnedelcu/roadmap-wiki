@@ -170,13 +170,16 @@
 ## git
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
-## portfolio
+## recomanded for portfolio
 * github
+* hobby projects
 * blog
 * codepen
 * linkedin
 * stalkoverflow
 * [angel](https://angel.co/)
+* community
+
 
 ## explication
 * [10 Website Go-Live Checklist Items](https://dev.to/adriantwarog/10-website-go-live-checklist-items-mp9)
