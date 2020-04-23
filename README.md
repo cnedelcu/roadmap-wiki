@@ -1,6 +1,10 @@
 # Resources-Beta
 
 
+
+
+
+
 ## JOB WATCH
 * [IT job Watch](https://www.itjobswatch.co.uk/) 
 * [Glassdoor](https://www.glassdoor.com/index.htm)
