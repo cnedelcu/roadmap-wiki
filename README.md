@@ -91,6 +91,7 @@
 * [html5up](https://html5up.net/)
 * [html-templates/profile/](https://mobirise.com/html-templates/profile/)
 * [easy and free ways to publish a website](https://dev.to/0xbanana/easy-and-free-ways-to-publish-a-website-in-2020-44lo)
+* [10 Website Go-Live Checklist Items](https://dev.to/adriantwarog/10-website-go-live-checklist-items-mp9)
 
 
 ## BOOTSTRAP
@@ -190,7 +191,6 @@
 * [programming paradigms](https://dev.to/yujiri8/an-overview-of-programming-paradigms-5988?fbclid=IwAR0SwvfewuIc4yOX5N7ftmlDe4jqc60gBeY3HOFUZLAlOJoMK-UKVISeLVw)
 * [DRY code](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [what is CRUD](https://www.codecademy.com/articles/what-is-crud)
-* [10 Website Go-Live Checklist Items](https://dev.to/adriantwarog/10-website-go-live-checklist-items-mp9)
 * [Microservices vs. Monolith Architecture](https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m)
 * [stateful vs stateless](https://medium.com/@rachna3singhal/stateless-over-stateful-applications-73cbe025f07) | [Stateful vs. Stateless Architecture Overview](https://www.bizety.com/2018/08/21/stateful-vs-stateless-architecture-overview/) | [difference between stateless and stateful protocol](https://www.geeksforgeeks.org/difference-between-stateless-and-stateful-protocol/)
 * [Rest API](https://www.youtube.com/watch?v=7YcW25PHnAA)
