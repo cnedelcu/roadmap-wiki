@@ -176,7 +176,7 @@
 
 ## recomanded for portfolio
 * github
-* hobby projects
+* PROJECTS
 * blog
 * codepen
 * linkedin
