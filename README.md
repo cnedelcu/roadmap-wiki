@@ -68,6 +68,7 @@
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
 * [transitions and transforms](https://thoughtbot.com/blog/transitions-and-transforms)
+* [advanced effects with css background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a/)
 ### animate 
 * [animate.css](https://daneden.github.io/animate.css/)
 * [animista](https://animista.net/)
