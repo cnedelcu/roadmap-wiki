@@ -1,5 +1,6 @@
 # Resources-Beta
-[](Stop, Dave.... Just what do you think you're doing, Dave?)
+
+
 ## JOB WATCH
 * [IT job Watch](https://www.itjobswatch.co.uk/) 
 
