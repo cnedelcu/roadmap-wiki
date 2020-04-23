@@ -67,6 +67,7 @@
 * [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
 * [minify](https://www.cleancss.com/css-minify/)
 * Color Palettes [colorsinspo]( https://colorsinspo.com)
+* [transitions and transforms](https://thoughtbot.com/blog/transitions-and-transforms)
 ### animate 
 * [animate.css](https://daneden.github.io/animate.css/)
 * [animista](https://animista.net/)
