@@ -166,6 +166,7 @@
 * [Learning React.js by building a Minesweeper game](https://codeburst.io/learning-react-js-by-building-a-minesweeper-game-ced9d41560ed)
 * [How to Build Tic Tac Toe with React Hooks](https://medium.com/@shifrb/how-to-build-tic-tac-toe-with-react-hooks-ca37f6040022)
 * [react-quiz](https://mitchgavan.com/react-quiz/)
+* [how to create a simple react calendar with tyled component](https://dev.to/zhiyueyi/how-to-create-a-simple-react-calendar-with-styled-component-42n6)
 
 ### quiz
 * [Quiz React Basic](https://www.w3docs.com/quiz-start/react)
