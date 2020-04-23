@@ -132,7 +132,7 @@
 * [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 * [creat react app](https://github.com/facebook/create-react-app)
 * one way data flow
-* hooks
+* [what the heck is react hooks](https://blog.soshace.com/what-the-heck-is-react-hooks/)
 * [material UI](https://material-ui.com/)
 * https://nextjs.org/
 * https://www.npmjs.com/package/axios
