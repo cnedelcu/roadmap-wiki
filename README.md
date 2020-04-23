@@ -12,6 +12,7 @@
 * [ES Lint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Settings Sync extension](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 * font with programming ligatures [Fira code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+* [top 10 visual studio code extensions](https://medium.com/@gargpiyush195/top-10-visual-studio-code-extensions-2020-fc5761116443)
 ## EMMET
 * [EMMET Playground](https://jsfiddle.net/)
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
