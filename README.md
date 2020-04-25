@@ -183,6 +183,7 @@
 * [reactjs interview questions](https://mindmajix.com/reactjs-interview-questions)
 
 ## GIT
+* [official documentation](https://help.github.com/en/github)
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 ### markdown
 * [basic syntax](https://www.markdownguide.org/basic-syntax)
