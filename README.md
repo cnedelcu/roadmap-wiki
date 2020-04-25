@@ -158,6 +158,7 @@
 * one way data flow
 * [what the heck is react hooks](https://blog.soshace.com/what-the-heck-is-react-hooks/)
 * [Using the State Hook](https://morioh.com/p/af03d3c65fc6)
+* [the hooks of react router](https://css-tricks.com/the-hooks-of-react-router/)
 * [material UI](https://material-ui.com/)
 * https://nextjs.org/
 * https://www.npmjs.com/package/axios
