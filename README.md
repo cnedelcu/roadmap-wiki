@@ -147,6 +147,7 @@
 ### other
 * [front end debugging hack](https://dev.to/lucasjanon/my-favorite-front-end-debugging-hack-4p5d?fbclid=IwAR2Lse9TgOWdVxCZfUIGCMB1lbgwDjqfxmuiWeWR6dyIN4JrlvYoi15mfxM)
 * [javascript assignments](http://www.webtrainingcentre.com/javascript-assignments/)
+* [learn javascript by building 7 games video course](https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/)
 
 ## REACT
 * [reactjs.org - eveything you need to know about react](https://reactjs.org/docs/getting-started.html)
