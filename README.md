@@ -200,7 +200,7 @@
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## SQL
-* [sql](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ## recomanded for portfolio
 * github
