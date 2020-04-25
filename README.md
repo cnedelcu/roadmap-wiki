@@ -199,6 +199,9 @@
 * [basic syntax](https://www.markdownguide.org/basic-syntax)
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
+## SQL
+* [sql](https://www.khanacademy.org/computing/computer-programming/sql)
+
 ## recomanded for portfolio
 * github
 * PROJECTS
