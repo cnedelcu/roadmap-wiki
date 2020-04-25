@@ -158,6 +158,7 @@
 * [The Always-recent Guide to Creating Your Own Development Environment for Node and React](https://jscomplete.com/learn/1rd-reactful)
 * [creat react app](https://github.com/facebook/create-react-app)
 * one way data flow
+* [an efficient image loading with react hooks](https://medium.com/@svyat770/be-lazy-is-no-shame-an-efficient-image-loading-with-react-hooks-ade56978005e)
 * [what the heck is react hooks](https://blog.soshace.com/what-the-heck-is-react-hooks/)
 * [Using the State Hook](https://morioh.com/p/af03d3c65fc6)
 * [react-usememo-usecallback-hook](https://linguinecode.com/post/react-usememo-usecallback-hook)
