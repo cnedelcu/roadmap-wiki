@@ -176,13 +176,14 @@
 
 
 ### projects 
-* []react rocks(https://react.rocks/)
+* [react rocks](https://react.rocks/)
 * [Video course: Learn React — how to build a simple Rock Paper Scissors game](https://hackernoon.com/learn-react-js-how-to-build-a-simple-rock-paper-scissors-game-b57ca663ec02)
 * [Learning React.js by building a Minesweeper game](https://codeburst.io/learning-react-js-by-building-a-minesweeper-game-ced9d41560ed)
 * [How to Build Tic Tac Toe with React Hooks](https://medium.com/@shifrb/how-to-build-tic-tac-toe-with-react-hooks-ca37f6040022)
 * [react-quiz](https://mitchgavan.com/react-quiz/)
 * [how to create a simple react calendar with tyled component](https://dev.to/zhiyueyi/how-to-create-a-simple-react-calendar-with-styled-component-42n6)
-* [react oggle switch components](https://onaircode.com/react-toggle-switch-components/)
+* [react toggle switch components](https://onaircode.com/react-toggle-switch-components/)
+* [react and nest.js secure Auth0](https://auth0.com/blog/amp/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-1/)
 
 ### quiz
 * [Quiz React Basic](https://www.w3docs.com/quiz-start/react)
