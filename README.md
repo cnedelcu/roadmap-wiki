@@ -292,8 +292,12 @@
 * [leetcode 100 days challenge](https://developersinspired.com/2020/02/15/100-days-leetcode-challenge/?fbclid=IwAR0JWOdZG7sXzI-QAB_rarHpwYmlunFDoNqHyhX-yIgqNspdkEFJLyFHfDg)
 
 ## TUTORIAL & COURSES
+* [Udemy](https://www.udemy.com/)
 * [freecodecamp](https://www.freecodecamp.org/)
+* [theodinproject](https://www.theodinproject.com/)
 * [450-free-ivy-league-university-courses-you-can-take-online](https://qz.com/1821327/450-free-ivy-league-university-courses-you-can-take-online/)
+* [codecademy](https://www.codecademy.com/)
+* [udacity](udacity.com)
 * [lynda](https://www.lynda.com/)
 
 
