@@ -132,6 +132,7 @@
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 * [everything from es 2016 to es 2019](https://inspiredwebdev.com/everything-from-es-2016-to-es-2019)
 * [7 major javascript concepts explained simply](https://medium.com/javascript-in-plain-english/7-major-javascript-concepts-explained-simply-45b0f3336f28)
+* [Array.find()](http://codezinga.rf.gd/snippet/A083BEnlOC)
 * [optional argument](https://www.geeksforgeeks.org/how-to-declare-the-optional-function-parameters-in-javascript/)
 * block scope
 * arrow
