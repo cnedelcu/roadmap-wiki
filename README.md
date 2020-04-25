@@ -35,6 +35,7 @@
 * [What is CSS?](https://www.w3schools.com/whatis/whatis_css.asp)
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 * [CSS3 tutorial](https://www.tutorialrepublic.com/css-tutorial/)
+* [advanced effects with css background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a/)
 
 ### Grid CSS documentation
 * [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
