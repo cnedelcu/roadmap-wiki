@@ -184,6 +184,8 @@
 
 ## GIT
 * [cheatsheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+### markdown
+* [basic syntax](https://www.markdownguide.org/basic-syntax)
 
 ## recomanded for portfolio
 * github
