@@ -144,6 +144,7 @@
 * promises
 ### library
 * chartJS
+* [handlebarsjs](https://handlebarsjs.com/guide/#what-is-handlebars)
 
 ### debug
 * [moving beyond console](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
