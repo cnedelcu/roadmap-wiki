@@ -224,7 +224,9 @@
 * stalkoverflow
 * [angel](https://angel.co/)
 * [producthunt](https://www..com/)
-* community
+
+## community
+* (thecrazyprogrammer)[https://www.thecrazyprogrammer.com/]
 
 
 ## explication
