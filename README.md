@@ -142,6 +142,7 @@
 * rest, spread
 * template strings
 * promises
+* [Why Promises are more flexible than Callbacks in JavaScript?](https://morioh.com/p/f060da4f9056)
 ### library
 * chartJS
 * [handlebarsjs](https://handlebarsjs.com/guide/#what-is-handlebars)
