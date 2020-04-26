@@ -299,6 +299,9 @@
 * [adventofcode](https://adventofcode.com/)
 * [codingame](https://www.codingame.com/)
 * [https://edabit.com/](edabit)
+
+## social development environment
+* codepen
 * [glitch.com](https://blog.maddevs.io/meet-glitch-com-429c423cf8e1)
 * https://codesandbox.io/
 
