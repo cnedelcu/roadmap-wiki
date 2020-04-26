@@ -298,6 +298,7 @@
 * [Udemy](https://www.udemy.com/)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [theodinproject](https://www.theodinproject.com/)
+* [chingu](https://www.chingu.io/)
 * [450-free-ivy-league-university-courses-you-can-take-online](https://qz.com/1821327/450-free-ivy-league-university-courses-you-can-take-online/)
 * [egghead](https://egghead.io/)
 * [codecademy](https://www.codecademy.com/)
