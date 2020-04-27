@@ -227,6 +227,7 @@
 
 ## community
 * (thecrazyprogrammer)[https://www.thecrazyprogrammer.com/]
+* (hackernoon)[https://hackernoon.com/]
 
 
 ## explication
