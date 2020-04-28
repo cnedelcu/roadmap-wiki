@@ -180,6 +180,7 @@
 * [exchange data between any component in react](https://medium.com/@awinashjaiswal100/exchange-data-between-any-component-in-react-306f97c4600e)
 * [React Admin Dashboard Template](https://mdbootstrap.com/freebies/react/admin-dashboard/)
 * [React Admin](https://marmelab.com/react-admin/)
+* firebase auth0
 
 
 ### projects 
