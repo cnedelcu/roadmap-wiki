@@ -321,5 +321,6 @@
 * [codecademy](https://www.codecademy.com/)
 * [udacity](udacity.com)
 * [lynda](https://www.lynda.com/)
+* [LEARN DATA SCIENCE SKILLS WITH AN AI](https://korbit.ai/)
 
 
