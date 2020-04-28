@@ -172,6 +172,7 @@
 * [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
 * [material UI](https://material-ui.com/)
 * https://nextjs.org/
+* https://mobx.js.org/
 * https://www.npmjs.com/package/axios
 * [test with Jest](https://jestjs.io/docs/en/tutorial-react) 
 * [protected routes in react](https://easyontheweb.com/protected-routes-in-react/)
@@ -181,6 +182,7 @@
 * [React Admin Dashboard Template](https://mdbootstrap.com/freebies/react/admin-dashboard/)
 * [React Admin](https://marmelab.com/react-admin/)
 * firebase auth0
+* https://jwt.io/introduction/
 
 
 ### projects 
