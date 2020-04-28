@@ -237,6 +237,10 @@
 * (thecrazyprogrammer)[https://www.thecrazyprogrammer.com/]
 * (hackernoon)[https://hackernoon.com/]
 
+## deplay static page
+* https://surge.sh/
+
+
 
 ## explication
 * What's the difference between parameter and arguments
