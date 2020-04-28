@@ -169,6 +169,7 @@
 * [react-usememo-usecallback-hook](https://linguinecode.com/post/react-usememo-usecallback-hook)
 * [the hooks of react router](https://css-tricks.com/the-hooks-of-react-router/)
 * [10 React Libraries Every JavaScript Professional Should Know](https://brainhub.eu/blog/react-libraries/)
+* [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
 * [material UI](https://material-ui.com/)
 * https://nextjs.org/
 * https://www.npmjs.com/package/axios
