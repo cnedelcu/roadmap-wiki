@@ -5,7 +5,7 @@
 ## roadmaps
 * [Web Development In 2020 - A Practical Guide -travesy Media](https://www.youtube.com/watch?v=0pThnRneDjw)
 * [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
-* [web skills](https://andreasbm.github.io/web-skills/)
+* [web skills - andreasbm](https://andreasbm.github.io/web-skills/)
 
 
 ## JOB WATCH
