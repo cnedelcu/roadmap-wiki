@@ -11,6 +11,7 @@
 ## JOB WATCH
 * [IT job Watch](https://www.itjobswatch.co.uk/) 
 * [Glassdoor](https://www.glassdoor.com/index.htm)
+* [linkedin.com/jobs](https://www.linkedin.com/jobs)
 
 ## AGILE 
 * the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
