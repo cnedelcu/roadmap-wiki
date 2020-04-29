@@ -12,25 +12,31 @@
 
 ## AGILE 
 * the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
+
 ## VISUAL STUDIO CODE
+
 ### documentation
 * [Visual studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
+
 ### extensions
 * [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [ES Lint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Settings Sync extension](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [ES Lint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * font with programming ligatures [Fira code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 * [top 10 visual studio code extensions](https://medium.com/@gargpiyush195/top-10-visual-studio-code-extensions-2020-fc5761116443)
+
 ## EMMET
 * [EMMET Playground](https://jsfiddle.net/)
 * [EMMET CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
 ## HTML5, CSS3, FLEXBOX, GRID CSS
+
 ### HTML5 documentation
 * [Introduction to Basic HTML5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [HTML5 Tutorial](https://www.tutorialrepublic.com/html-tutorial/)
+
 ### CSS3 documentation
 * [What is CSS?](https://www.w3schools.com/whatis/whatis_css.asp)
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
@@ -46,6 +52,7 @@
 * [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
 * [meta tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
 * [HTML 5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
+
 ### BOX MODEL
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 ### specificity
