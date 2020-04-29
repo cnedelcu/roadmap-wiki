@@ -77,7 +77,7 @@
 * [autoprefixer](https://autoprefixer.github.io/)
 ### games
 * [flukeout](https://flukeout.github.io/)
-* [flexboxfroggy.(https://flexboxfroggy.com/)
+* [flexboxfroggy](https://flexboxfroggy.com/)
 * [flexbox defence](http://www.flexboxdefense.com/)
 * [cssgridgarden](http://cssgridgarden.com/)
 ### cheaseet
