@@ -36,7 +36,7 @@
 ## HTML5, CSS3, FLEXBOX, GRID CSS
 
 ### HTML5 documentation
-* [Introduction to Basic HTML5](www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
+* [Introduction to Basic HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
 * [HTML5 Tutorial](https://www.tutorialrepublic.com/html-tutorial/)
 
 ### CSS3 documentation
