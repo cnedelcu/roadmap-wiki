@@ -336,6 +336,7 @@
 * [avoiding burnout as an ambitious developer](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 
 ## competitive programing 
+* [Difference between HackerRank, LeetCode, topcoder and Codeforces](https://www.youtube.com/watch?v=J267bz_G7xE)
 * https://codersrank.io/
 * [leetcode 100 days challenge](https://developersinspired.com/2020/02/15/100-days-leetcode-challenge/?fbclid=IwAR0JWOdZG7sXzI-QAB_rarHpwYmlunFDoNqHyhX-yIgqNspdkEFJLyFHfDg)
 * [adventofcode](https://adventofcode.com/)
