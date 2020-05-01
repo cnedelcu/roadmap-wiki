@@ -357,6 +357,7 @@
 * [lynda](https://www.lynda.com/)
 * [educative](https://www.educative.io/)
 * [hackerearth](https://www.hackerearth.com/)
+* (htmldog)[https://htmldog.com/]
 * [LEARN DATA SCIENCE SKILLS WITH AN AI](https://korbit.ai/)
 
 
