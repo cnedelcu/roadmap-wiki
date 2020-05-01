@@ -53,17 +53,17 @@
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [grid-template-columns / grid-template-rows](https://css-tricks.com/almanac/properties/g/grid-rows-columns/)
 
-### Meta tags
+### Meta Tags
 * [Meta Tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
 * [Meta Tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
 * [HTML 5 Tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 
-### Box model
+### Box Model
 * [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
 ### Specificity
 * [Specificity Calculator](https://specificity.keegan.st/)
-### responsive breakpoints and media queries
-* [responsive breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
+### ResponsiveBreakpoints and Media Queries
+* [Responsive Breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 ### recomended sites
 * [can I use](https://caniuse.com/)
