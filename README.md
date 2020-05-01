@@ -156,6 +156,7 @@
 * [Why Promises are more flexible than Callbacks in JavaScript?](https://morioh.com/p/f060da4f9056)
 ### library
 * chartJS
+* [jExcel Pro v5: The javascript spreadsheet](https://jexcel.net/)
 * [handlebarsjs](https://handlebarsjs.com/guide/#what-is-handlebars)
 
 ### debug
