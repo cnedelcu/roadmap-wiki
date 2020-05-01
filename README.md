@@ -235,9 +235,11 @@
 * [learn git branching](https://learngitbranching.js.org/)
 * [8 Git commands you may not know](https://medium.com/technopanti/8-git-commands-you-may-not-know-e704c01ce1)
 * [Git-bash for Windows](https://git-scm.com/downloads) 
+* [How to install](www.atlassian.com/git/tutorials/install-git#windows)
 ### markdown
 * [basic syntax](https://www.markdownguide.org/basic-syntax)
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+
 
 ## NODE.JS
 ### EXPRESS
