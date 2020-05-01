@@ -160,6 +160,9 @@
 * [jExcel Pro v5: The javascript spreadsheet](https://jexcel.net/)
 * [handlebarsjs](https://handlebarsjs.com/guide/#what-is-handlebars)
 
+### superset
+* [typescript](https://www.typescriptlang.org/)
+
 ### debug
 * [moving beyond console](https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada)
 
