@@ -282,6 +282,7 @@
 * pluralsight
 * udemy
 * youtube
+* [hackr.io](https://hackr.io/)
 * [hyperskill: Java, kotlin, Python](https://hyperskill.org/onboarding/?track=java)
 
 ## privacy
