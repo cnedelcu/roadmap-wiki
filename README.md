@@ -13,7 +13,7 @@
 ## JOB WATCH
 * [IT job Watch](https://www.itjobswatch.co.uk/) 
 * [Glassdoor](https://www.glassdoor.com/index.htm)
-* [linkedin.com/jobs](https://www.linkedin.com/jobs)
+* [Linkedin.com/jobs](https://www.linkedin.com/jobs)
 
 ## AGILE 
 * the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
@@ -45,11 +45,11 @@
 ### CSS3 documentation
 * [What is CSS?](https://www.w3schools.com/whatis/whatis_css.asp)
 * [Introduction to Basic CSS3](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
-* [CSS3 tutorial](https://www.tutorialrepublic.com/css-tutorial/)
-* [advanced effects with css background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a/)
+* [CSS3 Tutorial](https://www.tutorialrepublic.com/css-tutorial/)
+* [Advanced Effects With CSS Background Blend Modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a/)
 
 ### Grid CSS documentation
-* [Grid CSS scrimba](https://scrimba.com/g/gR8PTE)
+* [Grid CSS Scrimba](https://scrimba.com/g/gR8PTE)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [grid-template-columns / grid-template-rows](https://css-tricks.com/almanac/properties/g/grid-rows-columns/)
 
