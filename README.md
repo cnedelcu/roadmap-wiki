@@ -255,7 +255,7 @@
 * linkedin
 * stalkoverflow
 * [angel](https://angel.co/)
-* [producthunt](https://www..com/)
+* [producthunt](https://www.producthunt.com/)
 * [buymeacoffee](https://www.buymeacoffee.com/)
 * [product hunt](https://www.producthunt.com/)
 
