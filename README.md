@@ -303,6 +303,7 @@
 * [These 6 Types of Music Are Known to Improve Productivity](https://www.entrepreneur.com/article/325492)
 * [lofi](https://www.youtube.com/watch?v=-FlxM_0S2lA)
 * [stayHome playlist](https://open.spotify.com/playlist/58UaoWLMAyC4TwHXUMO5UR?si=JyG4HPUYT0ekVIeflygDCg)
+* [noises.online](https://noises.online/)
 
 ## podcast
 * [Dark Net Diaries](https://darknetdiaries.com/)
