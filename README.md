@@ -253,9 +253,10 @@
 * [angel](https://angel.co/)
 * [producthunt](https://www..com/)
 * [buymeacoffee](https://www.buymeacoffee.com/)
+* [product hunt](https://www.producthunt.com/)
 
 ## community
-* (thecrazyprogrammer)[https://www.thecrazyprogrammer.com/]
+* [thecrazyprogrammer](https://www.thecrazyprogrammer.com/)
 * (hackernoon)[https://hackernoon.com/]
 
 ## deplay static page
