@@ -72,6 +72,7 @@
 * [typeterms](https://www.supremo.co.uk/typeterms/) 
 * [guide to typography](https://careerfoundry.com/en/blog/ui-design/beginners-guide-to-typography/)
 * [typography terms](https://www.canva.com/learn/typography-terms/)
+* [refactoring.guru](https://refactoring.guru/)
 ### prefix and autofixer
 * [CSS prefix](http://shouldiprefix.com/) 
 * [autoprefixer](https://autoprefixer.github.io/)
