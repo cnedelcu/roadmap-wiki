@@ -59,9 +59,9 @@
 * [HTML 5 Tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 
 ### Box model
-* [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
-### specificity
-* [specificity calculator](https://specificity.keegan.st/)
+* [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
+### Specificity
+* [Specificity Calculator](https://specificity.keegan.st/)
 ### responsive breakpoints and media queries
 * [responsive breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
