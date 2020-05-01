@@ -339,9 +339,10 @@
 * [Udemy](https://www.udemy.com/)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [theodinproject](https://www.theodinproject.com/)
+* [Scrimba - Learn to Code with Interactive Tutorials](https://scrimba.com/)
 * [chingu](https://www.chingu.io/)
-* (exercism)[https://exercism.io/]
-* (fullstackopen)[https://fullstackopen.com/en/]
+* [exercismh](ttps://exercism.io/)
+* [fullstackopen](https://fullstackopen.com/en/)
 * [450-free-ivy-league-university-courses-you-can-take-online](https://qz.com/1821327/450-free-ivy-league-university-courses-you-can-take-online/)
 * [egghead](https://egghead.io/)
 * [codecademy](https://www.codecademy.com/)
