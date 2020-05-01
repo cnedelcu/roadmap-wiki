@@ -350,6 +350,7 @@
 * [MIT Computer science classes](https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
 * [lynda](https://www.lynda.com/)
 * [educative](https://www.educative.io/)
+* [hackerearth](https://www.hackerearth.com/)
 * [LEARN DATA SCIENCE SKILLS WITH AN AI](https://korbit.ai/)
 
 
