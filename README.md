@@ -257,7 +257,7 @@
 
 ## community
 * [thecrazyprogrammer](https://www.thecrazyprogrammer.com/)
-* (hackernoon)[https://hackernoon.com/]
+* [hackernoon](https://hackernoon.com/)
 
 ## deplay static page
 * https://surge.sh/
