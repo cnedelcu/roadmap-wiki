@@ -21,7 +21,7 @@
 ## VISUAL STUDIO CODE
 
 ### documentation
-* [Visual studio Code](https://code.visualstudio.com/docs)
+* [Visual Studio Code](https://code.visualstudio.com/docs)
 * [VS code can do that](https://vscodecandothat.com/)
 
 ### extensions
