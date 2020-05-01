@@ -364,6 +364,6 @@
 * [LEARN DATA SCIENCE SKILLS WITH AN AI](https://korbit.ai/)
 
 ## productivity
-* [goalcontract]( www.goalcontract.com/)
+* [goalcontract](www.goalcontract.com/)
 
 
