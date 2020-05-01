@@ -53,10 +53,10 @@
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [grid-template-columns / grid-template-rows](https://css-tricks.com/almanac/properties/g/grid-rows-columns/)
 
-### meta tags
-* [meta tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
-* [meta tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
-* [HTML 5 tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
+### Meta tags
+* [Meta Tags](https://www.tutorialspoint.com/html/html_meta_tags.htm)
+* [Meta Tags social media](https://css-tricks.com/essential-meta-tags-social-media/)
+* [HTML 5 Tags](https://www.htmlgoodies.com/tutorials/html5/new-tags-in-html5.html)
 
 ### Box model
 * [box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) 
