@@ -355,6 +355,7 @@
 * [zenva academy](https://academy.zenva.com/)
 * [udacity](udacity.com)
 * [MIT Computer science classes](https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
+* [The 100 Most Popular Free Online Courses of 2019](https://www.freecodecamp.org/news/100-popular-free-online-courses-2019/)
 * [lynda](https://www.lynda.com/)
 * [educative](https://www.educative.io/)
 * [hackerearth](https://www.hackerearth.com/)
