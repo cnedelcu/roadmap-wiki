@@ -8,7 +8,6 @@
 * [Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 * [web skills - andreasbm](https://andreasbm.github.io/web-skills/)
 * [Predicting the Future of the Web Development (2020 and 2025)](https://www.youtube.com/watch?v=24tQRwIRP_w)
-* [Why Isn't Functional Programming the Norm?]( https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
 
 ## JOB WATCH
@@ -281,6 +280,7 @@
 * [SSL](https://www.youtube.com/watch?v=earzZpX-PiY)
 * [techterms](https://techterms.com/)
 * [geeksforgeeks.org](https://www.geeksforgeeks.org/)
+* [Why Isn't Functional Programming the Norm?]( https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
 ## security
 * [cryptography for absolute beginners](https://medium.com/@hashelse/cryptography-for-absolute-beginners-3e274f9d6d66)
