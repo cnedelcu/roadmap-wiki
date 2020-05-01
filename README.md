@@ -6,7 +6,7 @@
 * [Web Development In 2020 - A Practical Guide -travesy Media](https://www.youtube.com/watch?v=0pThnRneDjw)
 * [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 * [Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)](https://www.youtube.com/watch?v=7CqJlxBYj-M)
-* [web skills - andreasbm](https://andreasbm.github.io/web-skills/)
+* [Web Skills - andreasbm](https://andreasbm.github.io/web-skills/)
 * [Predicting the Future of the Web Development (2020 and 2025)](https://www.youtube.com/watch?v=24tQRwIRP_w)
 
 
