@@ -260,8 +260,9 @@
 * [product hunt](https://www.producthunt.com/)
 
 ## community
-* [thecrazyprogrammer](https://www.thecrazyprogrammer.com/)
 * [hackernoon](https://hackernoon.com/)
+* [dev.to](https://dev.to/)
+* [thecrazyprogrammer](https://www.thecrazyprogrammer.com/)
 
 ## deplay static page
 * https://surge.sh/
