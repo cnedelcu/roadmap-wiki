@@ -308,6 +308,7 @@
 ## other 
 * [infographic-makers](https://buffer.com/library/infographic-makers)
 * [simplescraper](https://simplescraper.io/)
+* [carbon.now.sh - Create and share beautiful images of your source code.](https://carbon.now.sh/)
 
 ## playlist 
 * [WORK Jazz - Concentration Relaxing JAZZ for Work and Study](https://www.youtube.com/watch?v=MizPu-dTPQU)
