@@ -28,6 +28,8 @@
 * [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Settings Sync extension](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 * [ES Lint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * font with programming ligatures [Fira code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 * [top 10 visual studio code extensions](https://medium.com/@gargpiyush195/top-10-visual-studio-code-extensions-2020-fc5761116443)
