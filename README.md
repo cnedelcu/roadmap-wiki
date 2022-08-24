@@ -140,6 +140,8 @@
 * [javascript.info](https://javascript.info/)
 * [tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
 * [javaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [JavaScript Tutorial](
+https://www.scaler.com/topics/javascript/)
 ### compiler
 * [babel](https://babeljs.io/)
 ### cheatsheet
