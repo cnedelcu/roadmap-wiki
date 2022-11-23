@@ -248,6 +248,7 @@
 
 ## SQL
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Learn SQL in Detail](https://www.scaler.com/topics/sql/)
 
 ## recomanded for portfolio
 * github
